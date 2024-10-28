@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifer
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/riddhiraut777/Kidney-Disease-Classification
+Author: riddhiraut777
+Author-email: riddhiraut777@gmail.com
+Project-URL: Bug Tracker, https://github.com/riddhiraut777/Kidney-Disease-Classification/issues
+License-File: LICENSE
+
+# Kidney-Disease-Classification
